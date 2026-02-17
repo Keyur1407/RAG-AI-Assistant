@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![FAISS](https://img.shields.io/badge/FAISS-VectorDB-orange)
+![LLM](https://img.shields.io/badge/LLM-LLaMA--3-purple)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 # 🚀 Production-Grade RAG AI Assistant
 
 ### Retrieval-Augmented Generation (RAG) API using FastAPI, FAISS, SentenceTransformers & Groq LLaMA-3
